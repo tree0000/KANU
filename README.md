@@ -1,3 +1,3 @@
 # KANU
 
-<p><a href="https://www.google.com" target="_blank">이동</a></p>
+<p><a href="https://" target="_blank">이동</a></p>
